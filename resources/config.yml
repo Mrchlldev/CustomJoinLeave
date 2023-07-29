@@ -1,0 +1,18 @@
+# [CustomJoinLeave By BhawaniTheKing] # 
+
+
+# {name} or {player} : Name Of Player Joining Or Leaving. 
+# {line} : Skip To Line. 
+# {online} : Number Of Players Connected To The Server. 
+# {max_online} : Maximum Number Of Players On The Server. 
+
+
+# Message When A Player Joins The Server For The First Time. 
+Join_Message_New_Player: "§r§7[§r§l§6+§r§7] §r§d{name} §bWelcome! §r§4• §r§6Who Is Joining The Server For The First Time"
+
+#Message When A Player Joins The Server If It's Not His First Time Joining. 
+Join_Message: "§r§7[§r§l§6+§r§7] §r§d{name} §bWelcome! §r§4• §r§7(§r§a{online}§r§8/§r§a{max_online}§r§7)"
+
+#Message When A Player Leaves The Server. 
+Leave_Message: "§r§7[§r§l§c-§r§7] §r§d{name} §bGoodbye! §r§4• §r§7(§r§a{online}§r§8/§r§a{max_online}§r§7)"
+
