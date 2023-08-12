@@ -8,11 +8,11 @@
 
 
 # Message When A Player Joins The Server For The First Time. 
-Join_Message_New_Player: "§r§7[§r§l§6+§r§7] §r§d{name} §bWelcome! §r§4• §r§6Who Is Joining The Server For The First Time"
+Join_Message_New_Player: "§l§e==========§b[ §r§aWELCOME NEW PLAYER §l§b]§e==========§r{line}§e» §bHallo @{player}:){line}§e» §bSelamat Datang Di Server §eOsForce Network§b!{line}§e» §bJangan lupa untuk membeli rank & vote server!{line}§e» §bDan jangan lupa patuhi rules yang ada§c!!!{line}§l§e=====§b[ §r§aSELAMAT BERMAIN §l§b]§e====="
 
 #Message When A Player Joins The Server If It's Not His First Time Joining. 
-Join_Message: "§r§7[§r§l§6+§r§7] §r§d{name} §bWelcome! §r§4• §r§7(§r§a{online}§r§8/§r§a{max_online}§r§7)"
+Join_Message: "§r§7[§r§l§6+§r§7] §r§d{name} §bJoined The Server"
 
 #Message When A Player Leaves The Server. 
-Leave_Message: "§r§7[§r§l§c-§r§7] §r§d{name} §bGoodbye! §r§4• §r§7(§r§a{online}§r§8/§r§a{max_online}§r§7)"
+Leave_Message: "§r§7[§r§l§c-§r§7] §r§d{name} §bLeave From Server"
 
